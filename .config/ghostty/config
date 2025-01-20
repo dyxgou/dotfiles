@@ -1,0 +1,13 @@
+keybind = ctrl+q=unbind
+keybind = ctrl+enter=unbind
+
+keybind = ctrl+q=text:=
+keybind = ctrl+e=text:{}
+keybind = ctrl+tab=toggle_fullscreen
+
+font-family= "CodeNewRoman Nerd Font"
+font-size = 20
+
+theme = gruvbox-material
+gtk-titlebar=false
+command = tmux
