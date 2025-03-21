@@ -8,6 +8,7 @@ keybind = ctrl+tab=toggle_fullscreen
 font-family= "CodeNewRoman Nerd Font"
 font-size = 20
 
+copy-on-select = false
 theme = gruvbox-material
 gtk-titlebar=false
 command = tmux
